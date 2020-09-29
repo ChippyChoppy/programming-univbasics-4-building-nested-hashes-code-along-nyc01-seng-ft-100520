@@ -21,8 +21,8 @@ def third_challenge
           :attitude => "worried"
         },
         :mercutio => {
-          :name => "Mercutio"
-          :age => "18"
+          :name => "Mercutio",
+          :age => "18",
           :attitude => "hot-headed"
         }
       }]
